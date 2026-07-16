@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(https://raw.githubusercontent.com/ladinohubhub-crypto/aaa/refs/heads/main/aaa))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ladinohubhub-crypto/aaa/refs/heads/main/aaa"))()
